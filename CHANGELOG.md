@@ -1,5 +1,20 @@
 # Changelog
 
+## [14.1.0](https://github.com/AstroNvim/astrocommunity/compare/v14.0.0...v14.1.0) (2024-09-30)
+
+
+### Features
+
+* **colorscheme:** add `vim-nightly-colors` ([d2fb231](https://github.com/AstroNvim/astrocommunity/commit/d2fb2317623131866ff82c68eb7b8334be54df80))
+* **pack:** add Moonbit language support ([#1224](https://github.com/AstroNvim/astrocommunity/issues/1224)) ([e457eac](https://github.com/AstroNvim/astrocommunity/commit/e457eacee37d10eb0a9b77503a3a5b6e62f0360e))
+
+
+### Bug Fixes
+
+* **colorscheme:** fix name of `moonfly` to `vim-moonfly-colors` ([e8a3283](https://github.com/AstroNvim/astrocommunity/commit/e8a3283d1cef4bbf30bfa342fb1adb5ef287024c))
+* **julia:** fix infinite recursion ([19a9c61](https://github.com/AstroNvim/astrocommunity/commit/19a9c61883713e1acdb6ee799f2ba221b2886460))
+* **pack:** make sure custom treesitter parsers correctly handle `all` setting ([c2d1a80](https://github.com/AstroNvim/astrocommunity/commit/c2d1a80af03b5d1380c21f306c087367ce8ea649))
+
 ## [14.0.0](https://github.com/AstroNvim/astrocommunity/compare/v13.2.0...v14.0.0) (2024-09-25)
 
 
